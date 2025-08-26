@@ -30,10 +30,10 @@ Bootstrap 5
 
 ------------------------------------------------
 🧑🏻‍💻 Admin Paneli
-------------------------------------------------
-
 📍 Deneyimlerim
 Kullanıcı burada, sahip olduğu deneyimlerle ilgili bilgileri görüntüler. Dilerse CRUD İşlemleri yapabilir. Güncelle kısmında veriler ID'ye göre otomatik gelecektir
+------------------------------------------------
+
 <img width="1904" height="349" alt="9" src="https://github.com/user-attachments/assets/79d10bc8-3e5c-4fe4-99c4-5ab0904d9cb1" />
 
 <img width="1897" height="466" alt="10" src="https://github.com/user-attachments/assets/c2f2f046-01f0-475c-9bfd-9ec71b4ce96d" />
