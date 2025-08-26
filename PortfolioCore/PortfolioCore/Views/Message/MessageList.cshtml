@@ -1,0 +1,48 @@
+﻿@model List<Message>
+@{
+    ViewData["Title"] = "MessageList";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+
+}
+
+<h2>Mesajları Listele</h2>
+
+<table class="table table-hover d-flex justify-content-between">
+    <tr>
+        <th>#</th>
+        <th>Gönderen</th>
+        <th>Email</th>
+        <th>Başlık</th>
+        <th>Mesaj Detayı</th>
+        <th>Günderim Tarihi</th>
+        <th>Okundu & Okunmadı</th>
+        <th>Görüntüle</th>
+        <th>Sil</th>
+    </tr>    
+    
+    @foreach(var item in Model)
+    {
+
+        <tr>
+            <td>@item.MessageId</td>
+            <td>@item.NameSurname</td>
+            <td>@item.Email</td>
+            <td>@item.Sunject</td>
+            <td>@item.MessageDetail</td>
+            <td>@item.SendDate.ToShortDateString()</td>
+            @if(item.IsRead==true)
+            {
+                <td> <a href="/Message/MessageIsReadFalse/@item.MessageId" class="btn btn-warning">Okunmadı</a> </td>
+            }
+            else
+            {
+                <td> <a href="/Message/MessageIsReadTrue/@item.MessageId" class="btn btn-success">Okundu</a> </td>
+
+            }
+            <td> <a href="/Message/OpenMessage/@item.MessageId" class="btn btn-info">Görüntüle</a> </td>
+            <td> <a href="/Message/DeleteMessage/@item.MessageId" class="btn btn-danger">Sil</a> </td>
+
+        </tr>
+    }
+
+</table>

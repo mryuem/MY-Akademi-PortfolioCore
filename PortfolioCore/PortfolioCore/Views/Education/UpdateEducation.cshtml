@@ -1,0 +1,25 @@
+﻿@model Education
+@{
+    ViewData["Title"] = "UpdateEducation";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h1>Eğitim Güncelleme Sayfası</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="EducationId" />
+    <label>Başlık</label>
+    <input type="text" class="form-control" asp-for="Title" style="border:1px solid gray;" />
+    <br />
+    <label>Alt Başlık</label>
+    <input type="text" class="form-control" asp-for="SubTitle" style="border:1px solid gray;" />
+    <br />
+    <label>Tarih</label>
+    <input type="text" class="form-control" asp-for="DateInfo" style="border:1px solid gray;" />
+    <br />
+    <label>Açıklama</label>
+    <input type="text" class="form-control" asp-for="Description" style="border:1px solid gray;" />
+    <br />
+    <button class="btn btn-primary">Kaydet</button>
+</form>
+

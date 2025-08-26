@@ -1,0 +1,26 @@
+﻿@model PortfolioCore.Entities.Experience
+@{
+    ViewData["Title"] = "CreateExperience";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h1>Yeni Deneyim Ekleme Sayfası</h1>
+
+<form method="post">
+    <label>Başlık</label>
+    <input type="text" class="form-control" asp-for="Title" style="border:1px solid gray;" />
+    <br />
+    <label>Alt Başlık</label>
+    <input type="text" class="form-control" asp-for="SubTitle" style="border:1px solid gray;" />
+    <br />
+    <label>Tarih</label>
+    <input type="text" class="form-control" asp-for="ExperienceDate" style="border:1px solid gray;" />
+    <br />
+    <label>Açıklama</label>
+    <input type="text" class="form-control" asp-for="Description" style="border:1px solid gray;" />
+    <br />
+    <button class="btn btn-primary">Kaydet</button>
+</form>
+
+
+

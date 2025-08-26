@@ -1,0 +1,30 @@
+﻿@model List<Portfolio>
+@{
+	ViewData["Title"] = "PortfolioList";
+	Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h2>Projeler</h2>
+
+
+<div class="row  g-4 ">
+	@foreach (var item in Model)
+	{
+		<div class="col-lg-4 col-md-6">
+			<div class="card mb-3">
+				<img class="card-img-top object-fit-cover " style="height:300px;"  src="@item.ImageUrl" alt="Card image cap" />
+				<div class="card-body">
+					<h5 class="card-title">@item.Title</h5>
+					<p class="card-text">@item.Description</p>
+					<a href="/Portfolio/UpdatePortfolio/@item.PortfolioId" class="btn btn-success">Güncelle</a>
+					<a href="/Portfolio/DeletePortfolio/@item.PortfolioId" class="btn btn-danger">Sil</a>
+				</div>
+				<div class="card-footer">
+					<small class="text-body-secondary">Kategori: <b>@item.Category.CategoryName</b></small>
+				</div>
+			</div>
+		</div>
+	}
+</div>
+
+<a href="/Portfolio/CreatePortfolio/" class="btn btn-primary mt-3">Yeni Portfolyo Ekle</a>

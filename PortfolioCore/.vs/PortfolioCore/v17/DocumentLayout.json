@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mryuem\\OneDrive\\Masa\u00FCst\u00FC\\Yeniden Do\u011Fu\u015F\\PortfolioCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D163A256-8EE5-4283-8DC6-3190BBEF09B9}|PortfolioCore\\PortfolioCore.csproj|c:\\users\\mryuem\\onedrive\\masa\u00FCst\u00FC\\yeniden do\u011Fu\u015F\\portfoliocore\\portfoliocore\\views\\testimonial\\testimoniallist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D163A256-8EE5-4283-8DC6-3190BBEF09B9}|PortfolioCore\\PortfolioCore.csproj|solutionrelative:portfoliocore\\views\\testimonial\\testimoniallist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D163A256-8EE5-4283-8DC6-3190BBEF09B9}|PortfolioCore\\PortfolioCore.csproj|c:\\users\\mryuem\\onedrive\\masa\u00FCst\u00FC\\yeniden do\u011Fu\u015F\\portfoliocore\\portfoliocore\\views\\adminlayout\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D163A256-8EE5-4283-8DC6-3190BBEF09B9}|PortfolioCore\\PortfolioCore.csproj|solutionrelative:portfoliocore\\views\\adminlayout\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D163A256-8EE5-4283-8DC6-3190BBEF09B9}|PortfolioCore\\PortfolioCore.csproj|c:\\users\\mryuem\\onedrive\\masa\u00FCst\u00FC\\yeniden do\u011Fu\u015F\\portfoliocore\\portfoliocore\\views\\testimonial\\updatetestimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D163A256-8EE5-4283-8DC6-3190BBEF09B9}|PortfolioCore\\PortfolioCore.csproj|solutionrelative:portfoliocore\\views\\testimonial\\updatetestimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D163A256-8EE5-4283-8DC6-3190BBEF09B9}|PortfolioCore\\PortfolioCore.csproj|c:\\users\\mryuem\\onedrive\\masa\u00FCst\u00FC\\yeniden do\u011Fu\u015F\\portfoliocore\\portfoliocore\\controllers\\testimonialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D163A256-8EE5-4283-8DC6-3190BBEF09B9}|PortfolioCore\\PortfolioCore.csproj|solutionrelative:portfoliocore\\controllers\\testimonialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D163A256-8EE5-4283-8DC6-3190BBEF09B9}|PortfolioCore\\PortfolioCore.csproj|c:\\users\\mryuem\\onedrive\\masa\u00FCst\u00FC\\yeniden do\u011Fu\u015F\\portfoliocore\\portfoliocore\\views\\testimonial\\createtestimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D163A256-8EE5-4283-8DC6-3190BBEF09B9}|PortfolioCore\\PortfolioCore.csproj|solutionrelative:portfoliocore\\views\\testimonial\\createtestimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartialSidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\mryuem\\OneDrive\\Masa\u00FCst\u00FC\\Yeniden Do\u011Fu\u015F\\PortfolioCore\\PortfolioCore\\Views\\AdminLayout\\PartialSidebar.cshtml",
+              "RelativeDocumentMoniker": "PortfolioCore\\Views\\AdminLayout\\PartialSidebar.cshtml",
+              "ToolTip": "C:\\Users\\mryuem\\OneDrive\\Masa\u00FCst\u00FC\\Yeniden Do\u011Fu\u015F\\PortfolioCore\\PortfolioCore\\Views\\AdminLayout\\PartialSidebar.cshtml",
+              "RelativeToolTip": "PortfolioCore\\Views\\AdminLayout\\PartialSidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T10:41:48.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateTestimonial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mryuem\\OneDrive\\Masa\u00FCst\u00FC\\Yeniden Do\u011Fu\u015F\\PortfolioCore\\PortfolioCore\\Views\\Testimonial\\UpdateTestimonial.cshtml",
+              "RelativeDocumentMoniker": "PortfolioCore\\Views\\Testimonial\\UpdateTestimonial.cshtml",
+              "ToolTip": "C:\\Users\\mryuem\\OneDrive\\Masa\u00FCst\u00FC\\Yeniden Do\u011Fu\u015F\\PortfolioCore\\PortfolioCore\\Views\\Testimonial\\UpdateTestimonial.cshtml",
+              "RelativeToolTip": "PortfolioCore\\Views\\Testimonial\\UpdateTestimonial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T10:40:12.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateTestimonial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mryuem\\OneDrive\\Masa\u00FCst\u00FC\\Yeniden Do\u011Fu\u015F\\PortfolioCore\\PortfolioCore\\Views\\Testimonial\\CreateTestimonial.cshtml",
+              "RelativeDocumentMoniker": "PortfolioCore\\Views\\Testimonial\\CreateTestimonial.cshtml",
+              "ToolTip": "C:\\Users\\mryuem\\OneDrive\\Masa\u00FCst\u00FC\\Yeniden Do\u011Fu\u015F\\PortfolioCore\\PortfolioCore\\Views\\Testimonial\\CreateTestimonial.cshtml",
+              "RelativeToolTip": "PortfolioCore\\Views\\Testimonial\\CreateTestimonial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T10:38:31.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestimonialList.cshtml",
+              "DocumentMoniker": "C:\\Users\\mryuem\\OneDrive\\Masa\u00FCst\u00FC\\Yeniden Do\u011Fu\u015F\\PortfolioCore\\PortfolioCore\\Views\\Testimonial\\TestimonialList.cshtml",
+              "RelativeDocumentMoniker": "PortfolioCore\\Views\\Testimonial\\TestimonialList.cshtml",
+              "ToolTip": "C:\\Users\\mryuem\\OneDrive\\Masa\u00FCst\u00FC\\Yeniden Do\u011Fu\u015F\\PortfolioCore\\PortfolioCore\\Views\\Testimonial\\TestimonialList.cshtml",
+              "RelativeToolTip": "PortfolioCore\\Views\\Testimonial\\TestimonialList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T10:27:06.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestimonialController.cs",
+              "DocumentMoniker": "C:\\Users\\mryuem\\OneDrive\\Masa\u00FCst\u00FC\\Yeniden Do\u011Fu\u015F\\PortfolioCore\\PortfolioCore\\Controllers\\TestimonialController.cs",
+              "RelativeDocumentMoniker": "PortfolioCore\\Controllers\\TestimonialController.cs",
+              "ToolTip": "C:\\Users\\mryuem\\OneDrive\\Masa\u00FCst\u00FC\\Yeniden Do\u011Fu\u015F\\PortfolioCore\\PortfolioCore\\Controllers\\TestimonialController.cs",
+              "RelativeToolTip": "PortfolioCore\\Controllers\\TestimonialController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:17:02.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿@model List<SocialAccount>
+@{
+	ViewData["Title"] = "SocialAccountList";
+	Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h2>Sosyal Medya Hesapları </h2>
+
+<table class="table table-hover text-center">
+	<tr>
+		<th>Sosyal Medya Adı</th>
+		<th>Sosyal Medya Url</th>
+		<th>Sosyal Medya İkon</th>
+		<th>Sil</th>
+		<th>Güncelle</th>
+	</tr>
+	@foreach (var item in Model)
+	{
+		<tr>
+			<td>@item.Icon.IconName</td>
+			<td>@item.SocialUrl</td>
+			<td><i class="@item.Icon.IconClass"></i></td>
+			<td><a href="/SocialAccount/DeleteSocialAccount/@item.SocialAccountId" class="btn btn-danger">Sil</a></td>
+			<td><a href="/SocialAccount/UpdateSocialAccount/@item.SocialAccountId" class="btn btn-success">Güncelle</a></td>
+		</tr>
+	}
+
+		
+
+	
+</table>
+<a href="/SocialAccount/CreateSocialAccount/" type="submit" class="btn btn-primary">Yeni Sosyal Medya Hesabı Ekle</a> 

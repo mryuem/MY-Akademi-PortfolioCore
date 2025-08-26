@@ -1,0 +1,43 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+@await Component.InvokeAsync("_DefaultHeadComponentPartial")
+
+
+<body class="index-page">
+
+    @await Component.InvokeAsync("_DefaultSidebarComponentPartial")
+    <main class="main">
+
+        @await Component.InvokeAsync("_DefaultFeatureComponenetPartial")
+
+        @await Component.InvokeAsync("_DefaultAboutComponentPartial")
+
+        @await Component.InvokeAsync("_DefaultStatComponentPartial")
+
+        @await Component.InvokeAsync("_DefaultSkillComponentPartial")
+
+        @await Component.InvokeAsync("_DefaultEducationComponentPartial")
+   
+        @await Component.InvokeAsync("_DefaultPortfolioComponentPartial")
+
+        @await Component.InvokeAsync("_DefaultServiceComponentPartial")
+      
+        @await Component.InvokeAsync("_DefaultTestimonialComponentPartial")
+        <!-- Contact Section -->
+        @await Component.InvokeAsync("_DefaultContactComponentPartial")
+    </main>
+
+    @await Component.InvokeAsync("_DefaultFooterComponentPartial")
+
+
+
+    <!-- Scroll Top -->
+    @await Component.InvokeAsync("_DefaultScriptComponentPartial")
+
+</body>
+
+</html>

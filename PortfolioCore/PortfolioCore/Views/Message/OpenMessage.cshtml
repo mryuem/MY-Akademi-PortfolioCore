@@ -1,0 +1,22 @@
+﻿@model Message
+@{
+	ViewData["Title"] = "OpenMessage";
+	Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h2>Mesaj Okuma Sayfası</h2>
+
+<div class="container">
+	<div class="card">
+		<div class="card-header d-flex justify-content-between">
+			<h4>@Model.NameSurname</h4> <caption> - @Model.Email  </caption> <caption> -@Model.SendDate  </caption>
+		</div>
+		
+
+		<div class="card-body">
+			<h5 class="card-title">@Model.Sunject</h5>
+			<p class="card-text">@Model.MessageDetail</p>
+
+		</div>
+	</div>
+
