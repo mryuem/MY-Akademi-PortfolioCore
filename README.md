@@ -27,9 +27,11 @@ MS SQL Server
 
 Bootstrap 5
 
-HTML, CSS, JavaScript
+
 ------------------------------------------------
 🧑🏻‍💻 Admin Paneli
+------------------------------------------------
+
 📍 Deneyimlerim
 Kullanıcı burada, sahip olduğu deneyimlerle ilgili bilgileri görüntüler. Dilerse CRUD İşlemleri yapabilir. Güncelle kısmında veriler ID'ye göre otomatik gelecektir
 <img width="1904" height="349" alt="9" src="https://github.com/user-attachments/assets/79d10bc8-3e5c-4fe4-99c4-5ab0904d9cb1" />
