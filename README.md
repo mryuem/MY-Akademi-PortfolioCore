@@ -1,5 +1,3 @@
-<img width="1900" height="943" alt="8" src="https://github.com/user-attachments/assets/5e780023-5f15-419b-95f1-fde5a820ee25" /><img width="1787" height="779" alt="6" src="https://github.com/user-attachments/assets/c1410c6b-108d-4c8b-93ec-954d6d45c48d" />👋 Merhaba, M&Y Akademi danışmanlık bünyesinde .Net Core İle bitirmiş olduğum portfolyo projemi size tanıtmak isterim
-
 🎯 Proje Amacı
 Kendi portfolyo sitemi sıfırdan inşa ederek hem backend hem de frontend tarafında pratik kazanmak, aynı zamanda gerçek bir proje deneyimi elde etmek.
 
@@ -104,11 +102,8 @@ Kullanıcı burada, Sosyal medya bağlantılarını görüntüleyip istediği CR
 
 ------------------------------------------------
 <img width="1899" height="937" alt="1" src="https://github.com/user-attachments/assets/29a0ad2c-b161-41f0-a16d-de730112c79e" />
-
 <img width="1897" height="939" alt="2" src="https://github.com/user-attachments/assets/d9d8e078-9318-41f6-8368-56829c9fb398" />
-
 <img width="1855" height="484" alt="3" src="https://github.com/user-attachments/assets/84eaded0-d910-4efa-9742-d3062e4bbaaa" />
-
 <img width="1893" height="788" alt="4" src="https://github.com/user-attachments/assets/36ccf94a-bb7a-4c1b-82e7-7e88c327713b" />
 <img width="1900" height="937" alt="5" src="https://github.com/user-attachments/assets/f5855723-c8a0-43fd-ba67-d938839b112f" />
 <img width="1787" height="779" alt="6" src="https://github.com/user-attachments/assets/7a2cce0e-36c4-434a-98e7-956a4cbecf1d" />
